@@ -16,7 +16,7 @@ nav:
 
 ## Honorary members & visitors
 
-Based in other teams or institutes, they are key contributors to our different projects!
+Visiting or based in other teams or institutes, they are key contributors to our different projects!
 
   {% include list.html data="members" component="portrait" filter="group == 'honorary-long-term'" %}
 
