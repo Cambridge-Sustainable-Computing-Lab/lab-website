@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["paragraph.scss"],"names":[],"mappings":"AAEA;EACE;EACA;EACA;;;AAGF;EACK","sourcesContent":["// Edited from template - 6/01/2025\n\np {\n  margin: 20px 0;\n  text-align: justify;\n  line-height: var(--spacing);\n}\n\n.leftalign{\n     text-align: left;\n}\n"],"file":"paragraph.css"}
