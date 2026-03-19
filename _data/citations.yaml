@@ -72,21 +72,29 @@
   loic: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.31219/osf.io/k8gte_v2
-  title: Comparing the carbon footprint of fMRI data processing and analysis approaches
+- id: doi:10.17863/CAM.114743
+  title: Environmental Impacts of the UK Digital Sector - Data Driven Report
   authors:
-  - Nicholas Edward Souter
-  - Chris Racey
-  - Nikhil Bhagwat
-  - Reese Wilkinson
-  - Niall W Duncan
-  - Gabby Samuel
+  - Loic Lannelongue
+  - Vinesh Vegad
+  - Emily Dorn
+  publisher: Apollo - University of Cambridge Repository
+  date: '2025-01-17'
+  link: https://doi.org/hbspnd
+  orcid: 0000-0002-9135-1345
+  loic: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5281/ZENODO.14607021
+  title: How to include environmental sustainability criteria in national AI funding
+    schemes? Reflecting on the example of France and the Green Algorithms tool.
+  authors:
   - "Lo\xEFc Lannelongue"
-  - Raghavendra Selvan
-  - Charlotte Rae
-  publisher: Center for Open Science
-  date: '2025-04-09'
-  link: https://doi.org/g9fdtg
+  - Juliette Fropier
+  - Even Matencio
+  publisher: Zenodo
+  date: '2025-01-07'
+  link: https://doi.org/hbspnf
   orcid: 0000-0002-9135-1345
   loic: true
   plugin: orcid.py
@@ -266,25 +274,6 @@
   loic: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.31219/osf.io/7q5mh
-  title: Ten recommendations for reducing the carbon footprint of research computing
-    in human neuroimaging
-  authors:
-  - Nicholas Edward Souter
-  - "Lo\xEFc Lannelongue"
-  - Gabby Samuel
-  - Chris Racey
-  - Lincoln J Colling
-  - Nikhil Bhagwat
-  - Raghavendra Selvan
-  - Charlotte Rae
-  publisher: Center for Open Science
-  date: '2023-08-08'
-  link: https://doi.org/g8vm3n
-  orcid: 0000-0002-9135-1345
-  loic: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1038/s43588-023-00461-y
   title: GREENER principles for environmentally sustainable computational science
   authors:
@@ -373,52 +362,6 @@
   type: paper
   tags:
   - methods primer
-- id: doi:10.1101/2022.04.17.488593
-  title: An atlas of genetic scores to predict multi-omic traits
-  authors:
-  - Yu Xu
-  - Scott C. Ritchie
-  - Yujian Liang
-  - Paul R. H. J. Timmers
-  - Maik Pietzner
-  - "Lo\xEFc Lannelongue"
-  - Samuel A. Lambert
-  - Usman A. Tahir
-  - Sebastian May-Wilson
-  - "\xC5sa Johansson"
-  - Praveen Surendran
-  - Artika P Nath
-  - Elodie Persyn
-  - James E. Peters
-  - Clare Oliver-Williams
-  - Shuliang Deng
-  - Bram Prins
-  - Carles Foguet
-  - "Jian\u2019an Luan"
-  - Lorenzo Bomba
-  - Nicole Soranzo
-  - Emanuele Di Angelantonio
-  - Nicola Pirastu
-  - E Shyong Tai
-  - Rob M van Dam
-  - Emma E Davenport
-  - Dirk S. Paul
-  - Christopher Yau
-  - Robert E. Gerszten
-  - "Anders M\xE4larstig"
-  - John Danesh
-  - Xueling Sim
-  - Claudia Langenberg
-  - James F. Wilson
-  - Adam S. Butterworth
-  - Michael Inouye
-  publisher: openRxiv
-  date: '2022-04-17'
-  link: https://doi.org/gpxcz3
-  orcid: 0000-0002-9135-1345
-  loic: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1093/molbev/msac034
   title: The Carbon Footprint of Bioinformatics
   authors:
@@ -440,18 +383,6 @@
   type: paper
   tags:
   - research
-- id: doi:10.1101/2022.02.07.479382
-  title: Pitfalls of machine learning models for protein-protein interactions
-  authors:
-  - "Lo\xEFc Lannelongue"
-  - Michael Inouye
-  publisher: openRxiv
-  date: '2022-02-08'
-  link: https://doi.org/gsz4z7
-  orcid: 0000-0002-9135-1345
-  loic: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1009324
   title: Ten simple rules to make your computing more environmentally sustainable
   authors:
