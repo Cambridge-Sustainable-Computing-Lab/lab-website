@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}Publications
 
-Here are some of Loïc's publications that have guided the different projects that the group will expand on moving forward. See [here](/members/Loic-Lannelongue) for a full list of his publications.
+Here is a selection of relevant publications from Loïc and the Lab that are related to our work. See [team member's profiles](/members/) for a full up-to-date list of everyone's publications.
 
 {% include section.html %}
 

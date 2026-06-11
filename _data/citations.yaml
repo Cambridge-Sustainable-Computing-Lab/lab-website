@@ -455,3 +455,17 @@
   loic: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1146/annurev-biodatasci-092724-015338
+  title: The Case for Greener Biomedical Data Science and How to Get There
+  authors:
+  - Gabrielle Samuel
+  - "Lo\xEFc Lannelongue"
+  publisher: Annual Review of Biomedical Data Science
+  date: '2026-04-28'
+  link: https://doi.org/hb7cm7
+  researchPage: true
+  type: paper
+  tags:
+  - review
+  plugin: sources.py
+  file: sources_publications.yaml

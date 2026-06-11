@@ -1,6 +1,12 @@
 # - id: doi:10.1038/s43588-024-00726-0
 #   remove: true
 
+- id: doi:10.1146/annurev-biodatasci-092724-015338 # Annual Review
+  researchPage: true
+  type: paper
+  tags:
+    - review
+
 - id: doi:10.21105/joss.08251 # CATS: The Climate Aware Task Scheduler
   researchPage: true
   type: package
