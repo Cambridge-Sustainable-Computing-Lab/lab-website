@@ -8,9 +8,9 @@ aliases:
 - C. Bremer
 - Christina Bremer
 description: Postdoctoral Researcher
-aliases:
 links:
   google-scholar: JXLcYFAAAAAJ
+  email: cb2374@cam.ac.uk
 
 ---
 
