@@ -8,12 +8,28 @@
     - tools
     - research
 
+- title: E-SCOUT
+  subtitle: The Environmentally Sustainable Computing User Trial of the Green Algorithms Initiative
+  group: current
+  image: images/projects/carbon-icons.jpg
+  description: We are running an international multi-centre study to compare the effectiveness of different types of feedback from carbon tracking tools for reducing the environmental impact of computational research. This trial will involve different user groups, leveraging a new open source dashboard for high-performance computing (HPC) that we have built. To get involved, register interest [here](https://zcmp.eu/nvfL).
+  tags:
+    - research
+
+- title: Power Modelling
+  subtitle: Assessing the power usage of scientific computing
+  group: current
+  image: images/projects/seedling-board.jpg
+  description: We use a computational test bench to run scientific workloads and benchmarks while monitoring the power usage of different components and the full system. These experiments provide the empirical data required to improve the accuracy and validity of the foundational models underlying the various Green Algorithm tools.
+  tags:
+    - research
+
 - title: Green DiSC
   subtitle: A Digital Sustainability Certifiation
   group: current
   image: images/projects/green-disc.jpeg
   link: https://www.software.ac.uk/GreenDiSC
-  description: Green DiSC is the first free and open-access sustainability certification scheme for computational researchers. It provides a roadmap to individuals and organisations alike to understand and reduce the environmental impacts of their compute.
+  description: Green DiSC is the first free and open-access sustainability certification scheme for computational researchers. It provides a roadmap to individuals and organisations alike to understand and reduce the environmental impacts of their computational work.
   tags:
     - certification
 
@@ -22,7 +38,7 @@
   group: current
   image: images/projects/escs-forum.png
   link: https://www.escs-community.org
-  description: The ESCS Community (which stands for Environmentally Sustainable Computational Science) is our attempt at providing a space for computational scientist in all fields to question and improve the environmental sustainability of their work.
+  description: The ESCS Community (which stands for Environmentally Sustainable Computational Science) which provides a space for computational scientists in all fields to discuss and improve the environmental sustainability of their work.
   tags:
     - community
 
@@ -30,6 +46,6 @@
   subtitle: Embedding environmental sustainability in research funding
   group: current
   image: images/projects/funders.jpg
-  description: Funders play a key role in incentivising sustainable behavious and setting quality threshold for science. We engage with funders across Europe to help them in this endaveour.
+  description: Funders play a key role in incentivising sustainable behaviours and setting quality thresholds for science. We engage with funders across Europe to help them in this endeaveour.
   tags:
     - policy
