@@ -1,6 +1,6 @@
 ---
 name: Theresa Willem, PhD
-image: 
+image: images/team/theresa-willem1.jpg
 role: postdoc
 group: current-members
 aliases:
