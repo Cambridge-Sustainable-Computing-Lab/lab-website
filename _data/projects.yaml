@@ -25,7 +25,7 @@
     - research
 
 - title: Green DiSC
-  subtitle: A Digital Sustainability Certifiation
+  subtitle: A Digital Sustainability Certification
   group: current
   image: images/projects/green-disc.jpeg
   link: https://www.software.ac.uk/GreenDiSC
@@ -38,7 +38,7 @@
   group: current
   image: images/projects/escs-forum.png
   link: https://www.escs-community.org
-  description: The ESCS Community (which stands for Environmentally Sustainable Computational Science) which provides a space for computational scientists in all fields to discuss and improve the environmental sustainability of their work.
+  description: The ESCS Community (which stands for Environmentally Sustainable Computational Science) provides a space for computational scientists in all fields to discuss and improve the environmental sustainability of their work.
   tags:
     - community
 
@@ -46,6 +46,6 @@
   subtitle: Embedding environmental sustainability in research funding
   group: current
   image: images/projects/funders.jpg
-  description: Funders play a key role in incentivising sustainable behaviours and setting quality thresholds for science. We engage with funders across Europe to help them in this endeaveour.
+  description: Funders play a key role in incentivising sustainable behaviours and setting quality thresholds for science. We engage with funders across Europe to help them in this endeavour.
   tags:
     - policy

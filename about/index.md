@@ -41,8 +41,8 @@ We are part of the Cardiovascular Epidemiology Unit (CEU) in the Department of P
 
 {%
   include figure.html
-  image="images/team/CEU away day 2023.jpg"
-  caption="The 2023 CEU away day in Cambridge"
+  image="images/team/CEU_away_day_2025.jpeg"
+  caption="The 2025 CEU away day in Cambridge"
   width="100%"
 %}
 
