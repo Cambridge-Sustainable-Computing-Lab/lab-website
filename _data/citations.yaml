@@ -1,15 +1,50 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.6019/TOL.sustainable-computing-intro-t.2026.00001.1
-  title: Sustainable computing in science
+- id: doi:10.1146/annurev-biodatasci-092724-015338
+  title: The Case for Greener Biomedical Data Science and How to Get There
   authors:
+  - Gabrielle Samuel
   - "Lo\xEFc Lannelongue"
-  - Flaminia Zane
-  publisher: EMBL-EBI
-  date: '2026-01-29'
+  publisher: Annual Review of Biomedical Data Science
+  date: '2026-04-28'
+  link: https://doi.org/hb7cm7
+  orcid: 0000-0002-9135-1345
+  member: loic-lannelongue
+  plugin: sources.py
+  file: sources_publications.yaml
+  researchPage: false
+  type: paper
+  tags:
+  - review
+- id: pmid:41540287
+  title: 'Sustainable AI in medicine: balancing benefits and environmental costs.'
+  authors:
+  - Nikolas E J Schmitz
+  - Cristina Richie
+  - Raghavendra Selvan
+  - "Lo\xEFc Lannelongue"
+  - Ariel Dora Stern
+  - Nick Schneider
+  - Joe Lennerz
+  - Blanca Iciar Indave Ruiz
+  - Martin Strauch
+  - Peter Boor
+  publisher: Nature reviews. Nephrology
+  date: '2026-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41540287
+  orcid: 0000-0002-9135-1345
+  member: loic-lannelongue
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.6019/TOL.sustainable-computing-intro-t.2026.00001.1
+  title: Sustainable computing in science - An introduction to the environmental impacts
+    of computational research
+  authors: []
+  publisher: ''
+  date: ''
   link: https://doi.org/hbncmd
   orcid: 0000-0002-9135-1345
-  loic: true
+  member: loic-lannelongue
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1013791
@@ -17,9 +52,9 @@
   authors:
   - Ireen J. Kal
   - Lidwien P. Smabers
-  - Joanna von Berg
+  - Joanna Berg
   - Giulia Perticari
-  - Mette van de Meent
+  - Mette Meent
   - Denise Fokkelman
   - Joep Sprangers
   - "Lo\xEFc Lannelongue"
@@ -28,7 +63,7 @@
   date: '2025-12-16'
   link: https://doi.org/hbggs4
   orcid: 0000-0002-9135-1345
-  loic: true
+  member: loic-lannelongue
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.21105/joss.08251
@@ -48,10 +83,10 @@
   date: '2025-07-08'
   link: https://doi.org/g9s4fv
   orcid: 0000-0002-9135-1345
-  loic: true
+  member: loic-lannelongue
   plugin: sources.py
   file: sources_publications.yaml
-  researchPage: true
+  researchPage: false
   type: package
 - id: doi:10.1162/IMAG.a.36
   title: Comparing the carbon footprint of fMRI data processing and analysis approaches
@@ -69,7 +104,7 @@
   date: '2025-01-01'
   link: https://doi.org/g9k25r
   orcid: 0000-0002-9135-1345
-  loic: true
+  member: loic-lannelongue
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.17863/CAM.114743
@@ -82,7 +117,7 @@
   date: '2025-01-17'
   link: https://doi.org/hbspnd
   orcid: 0000-0002-9135-1345
-  loic: true
+  member: loic-lannelongue
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.5281/ZENODO.14607021
@@ -96,9 +131,11 @@
   date: '2025-01-07'
   link: https://doi.org/hbspnf
   orcid: 0000-0002-9135-1345
-  loic: true
-  plugin: orcid.py
-  file: orcid.yaml
+  member: loic-lannelongue
+  plugin: sources.py
+  file: sources_publications.yaml
+  researchPage: true
+  type: policy
 - id: doi:10.1038/s43588-024-00726-0
   title: Modeling the increase of electronic waste due to generative AI
   authors:
@@ -107,10 +144,10 @@
   date: '2024-11-08'
   link: https://doi.org/g8vm3c
   orcid: 0000-0002-9135-1345
-  loic: true
+  member: loic-lannelongue
   plugin: sources.py
   file: sources_publications.yaml
-  researchPage: true
+  researchPage: false
   type: journal
   tags:
   - News & Views
@@ -141,7 +178,7 @@
   date: '2024-10-22'
   link: https://doi.org/g8vpsk
   orcid: 0000-0002-9135-1345
-  loic: true
+  member: loic-lannelongue
   plugin: sources.py
   file: sources_publications.yaml
   researchPage: true
@@ -163,7 +200,7 @@
   date: '2024-08-15'
   link: https://doi.org/g8vm3d
   orcid: 0000-0002-9135-1345
-  loic: true
+  member: loic-lannelongue
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.31219/osf.io/k8gte
@@ -182,7 +219,7 @@
   date: '2024-07-16'
   link: https://doi.org/g8vm3f
   orcid: 0000-0002-9135-1345
-  loic: true
+  member: loic-lannelongue
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/bioinformatics/btae012
@@ -195,7 +232,7 @@
   date: '2024-01-10'
   link: https://doi.org/g8vm3g
   orcid: 0000-0002-9135-1345
-  loic: true
+  member: loic-lannelongue
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41561-023-01369-y
@@ -217,10 +254,10 @@
   date: '2024-01-26'
   link: https://doi.org/g8vm3h
   orcid: 0000-0002-9135-1345
-  loic: true
+  member: loic-lannelongue
   plugin: sources.py
   file: sources_publications.yaml
-  researchPage: true
+  researchPage: false
   type: paper
 - id: doi:10.31219/osf.io/wmzcq
   title: Measuring and reducing the carbon footprint of fMRI preprocessing in fMRIPrep
@@ -238,7 +275,7 @@
   date: '2024-01-19'
   link: https://doi.org/g8vm3j
   orcid: 0000-0002-9135-1345
-  loic: true
+  member: loic-lannelongue
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/cshperspect.a041473
@@ -250,10 +287,10 @@
   date: '2023-12-01'
   link: https://doi.org/g8vm3k
   orcid: 0000-0002-9135-1345
-  loic: true
+  member: loic-lannelongue
   plugin: sources.py
   file: sources_publications.yaml
-  researchPage: true
+  researchPage: false
   type: book
 - id: doi:10.1162/imag_a_00043
   title: Ten recommendations for reducing the carbon footprint of research computing
@@ -271,7 +308,7 @@
   date: '2023-12-01'
   link: https://doi.org/g8vm3m
   orcid: 0000-0002-9135-1345
-  loic: true
+  member: loic-lannelongue
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s43588-023-00461-y
@@ -288,10 +325,10 @@
   - Gerry Reilly
   - Michael Inouye
   publisher: Nature Computational Science
-  date: '2023-06-26'
+  date: '2023-06-01'
   link: https://doi.org/mkpz
   orcid: 0000-0002-9135-1345
-  loic: true
+  member: loic-lannelongue
   plugin: sources.py
   file: sources_publications.yaml
   researchPage: true
@@ -343,7 +380,7 @@
   date: '2023-03-29'
   link: https://doi.org/gr2rx6
   orcid: 0000-0002-9135-1345
-  loic: true
+  member: loic-lannelongue
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s43586-023-00202-5
@@ -355,7 +392,7 @@
   date: '2023-02-16'
   link: https://doi.org/gt5fdx
   orcid: 0000-0002-9135-1345
-  loic: true
+  member: loic-lannelongue
   plugin: sources.py
   file: sources_publications.yaml
   researchPage: true
@@ -376,7 +413,7 @@
   date: '2022-02-10'
   link: https://doi.org/gspqhz
   orcid: 0000-0002-9135-1345
-  loic: true
+  member: loic-lannelongue
   plugin: sources.py
   file: sources_publications.yaml
   researchPage: true
@@ -394,7 +431,7 @@
   date: '2021-09-20'
   link: https://doi.org/gmxz77
   orcid: 0000-0002-9135-1345
-  loic: true
+  member: loic-lannelongue
   plugin: sources.py
   file: sources_publications.yaml
   researchPage: true
@@ -411,7 +448,7 @@
   date: '2021-05-02'
   link: https://doi.org/gm2snp
   orcid: 0000-0002-9135-1345
-  loic: true
+  member: loic-lannelongue
   plugin: sources.py
   file: sources_publications.yaml
   researchPage: true
@@ -440,7 +477,7 @@
   date: '2019-09-12'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31541785
   orcid: 0000-0002-9135-1345
-  loic: true
+  member: loic-lannelongue
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:31196452
@@ -452,20 +489,209 @@
   date: '2019-06-18'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31196452
   orcid: 0000-0002-9135-1345
-  loic: true
+  member: loic-lannelongue
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1146/annurev-biodatasci-092724-015338
-  title: The Case for Greener Biomedical Data Science and How to Get There
+- id: doi:10.1145/3772363.3778735
+  title: Cultivating Pedagogies for Post-Growth HCI
   authors:
-  - Gabrielle Samuel
-  - "Lo\xEFc Lannelongue"
-  publisher: Annual Review of Biomedical Data Science
-  date: '2026-04-28'
-  link: https://doi.org/hb7cm7
-  researchPage: true
-  type: paper
-  tags:
-  - review
-  plugin: sources.py
-  file: sources_publications.yaml
+  - Vishal Sharma
+  - Hongjin Lin
+  - Jasmine Lu
+  - Han Qiao
+  - Asra Sakeen Wani
+  - Christina Bremer
+  - Philip Engelbutzeder
+  - Christoph Becker
+  - Neha Kumar
+  - Rikke Hagensby Jensen
+  - Anupriya Tuli
+  publisher: Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human
+    Factors in Computing Systems
+  date: '2026-04-13'
+  link: https://doi.org/hbxp2s
+  orcid: 0000-0002-8222-9786
+  member: christina-bremer
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3772363.3778755
+  title: 'HCI-TERRA: HCI Towards EnviRonmentally Responsible AI'
+  authors:
+  - Georgia Panagiotidou
+  - Christina Bremer
+  - Silvia Cazacu
+  - "Sinem G\xF6r\xFCc\xFC"
+  - Nanna Inie
+  - Luiz A. Morais
+  - Raghavendra Selvan
+  - Ben Snaith
+  - Ana Valdivia
+  publisher: Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human
+    Factors in Computing Systems
+  date: '2026-04-13'
+  link: https://doi.org/hb8gc8
+  orcid: 0000-0002-8222-9786
+  member: christina-bremer
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3747188
+  title: 'Design for Digital Sufficiency: Understanding User Preferences for More
+    Sustainable Data Centers'
+  authors:
+  - Harshit Gujral
+  - Christina Bremer
+  - Dushani Perera
+  - Steve Easterbrook
+  publisher: ACM Journal on Computing and Sustainable Societies
+  date: '2025-11-24'
+  link: https://doi.org/hb8gc9
+  orcid: 0000-0002-8222-9786
+  member: christina-bremer
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3706598.3713754
+  title: 'Of Ironies and Agency: Energy Professionals'' Views on Digital Interventions
+    and Their Users'
+  authors:
+  - Christina Bremer
+  - Bran Knowles
+  - Adrian Friday
+  publisher: Proceedings of the 2025 CHI Conference on Human Factors in Computing
+    Systems
+  date: '2025-04-25'
+  link: https://doi.org/hb8gdb
+  orcid: 0000-0002-8222-9786
+  member: christina-bremer
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3544549.3573833
+  title: 'HCI for Climate Change: Imagining Sustainable Futures'
+  authors:
+  - Eleonora Mencarini
+  - Christina Bremer
+  - Chiara Leonardi
+  - Jen Liu
+  - Valentina Nisi
+  - Nuno Jardim Nunes
+  - Robert Soden
+  publisher: Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing
+    Systems
+  date: '2023-04-19'
+  link: https://doi.org/hb8gdc
+  orcid: 0000-0002-8222-9786
+  member: christina-bremer
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-45712-9_15
+  title: Not (B)interested? Using Persuasive Technology to Promote Sustainable Household
+    Recycling Behavior
+  authors:
+  - Christina Bremer
+  publisher: Lecture Notes in Computer Science
+  date: '2020-01-01'
+  link: https://doi.org/hb8gdd
+  orcid: 0000-0002-8222-9786
+  member: christina-bremer
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.jpcb.5c07501
+  title: Evidence for Photoinduced Polaron Generation in a High Persistence Length
+    Low Bandgap Conjugated Polymer in Solution
+  authors:
+  - Mohammed Azzouzi
+  - Elham Rezasoltani
+  - Matthew J. Bird
+  - Jack F. Coker
+  - Jarvist M. Frost
+  - Garrett S. LeCroy
+  - Anthony W. Parker
+  - Igor V. Sazanovich
+  - Gregory M. Greetham
+  - Michael Towrie
+  - Alise Virbule
+  - Michelle S. Vezie
+  - Despoina Heracleous
+  - Hugo Bronstein
+  - Alberto Salleo
+  - Jenny Nelson
+  - Sophia C. Hayes
+  publisher: The Journal of Physical Chemistry B
+  date: '2026-01-30'
+  link: https://doi.org/hb8hsz
+  orcid: 0009-0003-5332-7509
+  member: jack-coker
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.2403879121
+  title: Perpendicular crossing chains enable high mobility in a noncrystalline conjugated
+    polymer
+  authors:
+  - Jack F. Coker
+  - Stefania Moro
+  - Anders S. Gertsen
+  - Xingyuan Shi
+  - Drew Pearce
+  - Martin P. van der Schelling
+  - Yucheng Xu
+  - Weimin Zhang
+  - Jens W. Andreasen
+  - Chad R. Snyder
+  - Lee J. Richter
+  - Matthew J. Bird
+  - Iain McCulloch
+  - Giovanni Costantini
+  - Jarvist M. Frost
+  - Jenny Nelson
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2024-09-03'
+  link: https://doi.org/hb8hs2
+  orcid: 0009-0003-5332-7509
+  member: jack-coker
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevX.14.021021
+  title: Disorder-Induced Transition from Transient Quantum Delocalization to Charge
+    Carrier Hopping Conduction in a Nonfullerene Acceptor Material
+  authors:
+  - "Ljiljana Stojanovi\u0107"
+  - Jack Coker
+  - Samuele Giannini
+  - Giacomo Londi
+  - Anders S. Gertsen
+  - Jens Wenzel Andreasen
+  - Jun Yan
+  - "Gabriele D\u2019Avino"
+  - David Beljonne
+  - Jenny Nelson
+  - Jochen Blumberger
+  publisher: Physical Review X
+  date: '2024-04-29'
+  link: https://doi.org/hb8hs3
+  orcid: 0009-0003-5332-7509
+  member: jack-coker
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.chemmater.3c02353
+  title: "Structure\u2013Property Relationships for the Electronic Applications of\
+    \ Bis-Adduct Isomers of Phenyl-C<sub>61</sub> Butyric Acid Methyl Ester"
+  authors:
+  - Xueyan Hou
+  - Jack F. Coker
+  - Jun Yan
+  - Xingyuan Shi
+  - Mohammed Azzouzi
+  - Flurin D. Eisner
+  - James D. McGettrick
+  - Sachetan M. Tuladhar
+  - Isaac Abrahams
+  - Jarvist M. Frost
+  - Zhe Li
+  - T. John S. Dennis
+  - Jenny Nelson
+  publisher: Chemistry of Materials
+  date: '2023-12-28'
+  link: https://doi.org/hb8hs4
+  orcid: 0009-0003-5332-7509
+  member: jack-coker
+  plugin: orcid.py
+  file: orcid.yaml

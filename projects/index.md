@@ -11,24 +11,24 @@ nav:
 
 Our projects are a combination of open-source tools, sustainability research projects, and policy work, all aiming to enable and promote sustainable computing.
 
-{% comment %}
-
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
-
-{% endcomment %}
+    {% comment %}
+    
+    {% include tags.html tags="publication, resource, website" %}
+    
+    {% include search-info.html %}
+    
+    {% endcomment %}
 
 {% include list.html component="card" data="projects" filter="group == 'current'" %}
 
-{% comment %}
-
-{% include section.html %}
-
-## Previous
-
-Before starting his lab, Loïc worked on several projects
-
-{% include list.html component="card" data="projects" filter="group == 'concluded'" style="small" %}
-
-{% endcomment %}
+    {% comment %}
+    
+    {% include section.html %}
+    
+    ## Previous
+    
+    Before starting his lab, Loïc worked on several projects
+    
+    {% include list.html component="card" data="projects" filter="group == 'concluded'" style="small" %}
+    
+    {% endcomment %}

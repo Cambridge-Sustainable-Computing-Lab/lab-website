@@ -7,13 +7,15 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}Publications
 
-Here is a selection of relevant publications from Loïc and the Lab that are related to our work. See [team member's profiles](/members/) for a full up-to-date list of everyone's publications.
+Here is a selection of publications related to the different projects of the Lab. See [team member's profiles](/members/) for a full up-to-date list of everyone's publications.
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Green Algorithms" style="rich" %}
+{% include citation.html lookup="Green Algorithms: Quantifying" style="rich" %}
+
+{% include citation.html lookup="national AI funding" style="rich" %}
 
 {% include citation.html lookup="GREENER" style="rich" %}
 

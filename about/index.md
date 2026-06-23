@@ -25,6 +25,41 @@ We are part of the Cardiovascular Epidemiology Unit (CEU) in the Department of P
   link="https://maps.app.goo.gl/hBeL1PNsVATCC4997"
 %}
 
+## Funding and support
+
+{% capture col1 %}
+  [![Wellcome](/images/funders/wellcome-logo.png)](https://wellcome.org)
+{% endcapture %}
+
+{% capture col2 %}
+  [![University of Cambridge](/images/funders/cambridge-logo.png)](https://www.cam.ac.uk)
+{% endcapture %}
+
+{%
+  include cols.html
+  col1=col1
+  col2=col2
+%}
+
+{% capture col3 %}
+  [![Cambridge NIHR BRC](/images/funders/cambridge-nihr-brc-logo.png)](https://cambridgebrc.nihr.ac.uk)
+{% endcapture %}
+
+{% capture col4 %}
+  [![BHF](/images/funders/bhf-logo.png)](https://www.bhf.org.uk)
+{% endcapture %}
+
+{% capture col5 %}
+  [![Software Sustainability Institute](/images/funders/ssi-logo.png)](https://www.software.ac.uk/)
+{% endcapture %}
+
+{%
+  include cols.html
+  col1=col3
+  col2=col4
+  col3=col5
+%}
+
 {% include section.html %}
 
 ## {% include icon.html icon="fa-solid fa-magnifying-glass" %}The problem
@@ -62,41 +97,6 @@ We also manage [Green DiSC](https://www.software.ac.uk/GreenDiSC), the first fre
   image="images/team/CEU_away_day_2025.jpeg"
   caption="The 2025 CEU away day in Cambridge"
   width="100%"
-%}
-
-## Funding and support
-
-{% capture col1 %}
-  [![Wellcome](/images/funders/wellcome-logo.png)](https://wellcome.org)
-{% endcapture %}
-
-{% capture col2 %}
-  [![University of Cambridge](/images/funders/cambridge-logo.png)](https://www.cam.ac.uk)
-{% endcapture %}
-
-{%
-  include cols.html
-  col1=col1
-  col2=col2
-%}
-
-{% capture col3 %}
-  [![Cambridge NIHR BRC](/images/funders/cambridge-nihr-brc-logo.png)](https://cambridgebrc.nihr.ac.uk)
-{% endcapture %}
-
-{% capture col4 %}
-  [![BHF](/images/funders/bhf-logo.png)](https://www.bhf.org.uk)
-{% endcapture %}
-
-{% capture col5 %}
-  [![Software Sustainability Institute](/images/funders/ssi-logo.png)](https://www.software.ac.uk/)
-{% endcapture %}
-
-{%
-  include cols.html
-  col1=col3
-  col2=col4
-  col3=col5
 %}
 
 {% include section.html %}
