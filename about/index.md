@@ -5,7 +5,7 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-solid fa-circle-info" %}About us: contact, funding and info about Cambridge
+# {% include icon.html icon="fa-solid fa-circle-info" %}About us: background, contact, funding and info about Cambridge
 
 We are part of the Cardiovascular Epidemiology Unit (CEU) in the Department of Public Health and Primary Care at the University of Cambridge (UK) and are based at the Heart and Lungs Research Institute (HLRI) on the biomedical campus.
 
@@ -24,29 +24,6 @@ We are part of the Cardiovascular Epidemiology Unit (CEU) in the Department of P
   tooltip="Our location on Google Maps for easy navigation"
   link="https://maps.app.goo.gl/hBeL1PNsVATCC4997"
 %}
-
-{% include section.html %}
-
-## Some snapshots
-
-{% include figure.html image="images/cambridge/hlri_papworth.jpg" caption="View of HLRI and Papworth Hospital" width="100%" %}
-
-{% capture content %}
-  {% include figure.html image="images/cambridge/HLRI.jpg" caption="HLRI building" width="100%" %}
-  {% include figure.html image="images/cambridge/cambridge_kings.jpg" caption="A classic view of Cambridge" width="100%" %}
-  {% include figure.html image="images/cambridge/cambridge_punting.jpg" caption="River Cam" width="100%" %}
-{% endcapture %}
-
-{% include grid.html content=content %}
-
-{%
-  include figure.html
-  image="images/team/CEU_away_day_2025.jpeg"
-  caption="The 2025 CEU away day in Cambridge"
-  width="100%"
-%}
-
-{% include section.html %}
 
 ## Funding and support
 
@@ -81,6 +58,45 @@ We are part of the Cardiovascular Epidemiology Unit (CEU) in the Department of P
   col1=col3
   col2=col4
   col3=col5
+%}
+
+{% include section.html %}
+
+## {% include icon.html icon="fa-solid fa-magnifying-glass" %}The problem
+
+Computing is an essential component of modern science, and it comes with significant, but not always well-understood, environmental impacts. E.g. the global carbon footprint of data centres is estimated to be equivalent to the entire US commercial aviation, and individual scientific projects commonly reach tonnes, if not kilotonnes, of CO2e (for context, the IPCC target to keep global warming under 1.5C is 2 TCO2e/year/person). This is particularly concerning as the need for High-Performance Computing (HPC) and AI is predicted to rise sharply in the next 1-2 years and beyond.
+
+## {% include icon.html icon="fa-solid fa-bridge" %}Bridging the gap
+
+Work on the sustainability of data centres and computing hardware is not new, for decades manufacturers, data centre operators and computer scientists have been tackling this issue. However, until recently, there was very little involvement of end-users: scientists, from astrophysics to bioinformatics, didn't play a role in the sustainability of their work. As a result, while more tools have become available to track our carbon footprint, computational science still lags behind when it comes to understanding and reducing its environmental impacts. We aim to bridge the gap between the hardware/infrastructure and computational science communities so that environmental impacts can successfully be mitigated.
+
+## {% include icon.html icon="fa-solid fa-seedling" %}What we do: the Green Algorithms Initiative, Green DiSC and more
+
+Over the past few years, we developed the [Green Algorithms Initiative](https://www.green-algorithms.org), a world-leading project in the field of green computing focusing on quantifying and reducing the environmental impacts of computational science. The tools and frameworks developed and maintained by the group are used internationally and include the popular Green Algorithms online calculator, server-specific monitoring tools and the GREENER Principles for Environmentally Sustainable Computational Science. The group has a strong commitment to making all tools available open access to the computing community. The Green Algorithms Initiative has received both nominations and awards for its contributions to environmentally sustainable research (e.g. HDR-UK Impact Award).
+
+Our work also supports community building (through the [ESCS Community](https://www.escs-community.org), more on this soon) and funders' sustainability policies (see [this European agreement](https://www.embo.org/press-releases/european-funders-and-organizations-partner-to-promote-sustainable-research/) for example).
+
+We also manage [Green DiSC](https://www.software.ac.uk/GreenDiSC), the first free and open-access sustainability certification scheme for computational researchers. It provides a roadmap for individuals and organisations alike to understand and reduce the environmental impacts of their computing activities.
+
+{% include section.html %}
+
+## Some snapshots
+
+{% include figure.html image="images/cambridge/hlri_papworth.jpg" caption="View of HLRI and Papworth Hospital" width="100%" %}
+
+{% capture content %}
+  {% include figure.html image="images/cambridge/HLRI.jpg" caption="HLRI building" width="100%" %}
+  {% include figure.html image="images/cambridge/cambridge_kings.jpg" caption="A classic view of Cambridge" width="100%" %}
+  {% include figure.html image="images/cambridge/cambridge_punting.jpg" caption="River Cam" width="100%" %}
+{% endcapture %}
+
+{% include grid.html content=content %}
+
+{%
+  include figure.html
+  image="images/team/CEU_away_day_2025.jpeg"
+  caption="The 2025 CEU away day in Cambridge"
+  width="100%"
 %}
 
 {% include section.html %}

@@ -68,4 +68,4 @@ He is also interested in radiogenomics, i.e. combining medical imaging and genet
 
 ## All papers on Loïc's ORCID:
 
-{% include list.html data="citations" component="citation" filters="loic: true" %}
+{% include list.html data="citations" component="citation" filter="member == 'loic-lannelongue'" %}

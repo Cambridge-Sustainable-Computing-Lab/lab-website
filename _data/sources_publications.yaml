@@ -2,17 +2,23 @@
 #   remove: true
 
 - id: doi:10.1146/annurev-biodatasci-092724-015338 # Annual Review
-  researchPage: true
+  researchPage: false
   type: paper
   tags:
     - review
 
-- id: doi:10.21105/joss.08251 # CATS: The Climate Aware Task Scheduler
+
+
+- id: doi:10.5281/ZENODO.14607021 # How to include environmental sustainability criteria in national AI funding schemes? Reflecting on the example of France and the Green Algorithms tool.
   researchPage: true
+  type: policy
+
+- id: doi:10.21105/joss.08251 # CATS: The Climate Aware Task Scheduler
+  researchPage: false
   type: package
 
 - id: doi:10.1038/s43588-024-00726-0 # Modeling the increase of electronic waste due to generative AI
-  researchPage: true
+  researchPage: false
   type: journal
   tags:
     - News & Views
@@ -22,11 +28,11 @@
   type: policy
 
 - id: doi:10.1038/s41561-023-01369-y # Prioritize environmental sustainability in use of AI and data science methods
-  researchPage: true
+  researchPage: false
   type: paper
 
 - id: doi:10.1101/cshperspect.a041473 # Environmental Impacts of Machine Learning Applications in Protein Science
-  researchPage: true
+  researchPage: false
   type: book
 
 - id: doi:10.1038/s43588-023-00461-y # GREENER principles
@@ -65,3 +71,16 @@
       link: http://calculator.green-algorithms.org
   tags:
     - research
+
+##  orcid doi import doesn't work for these one
+# 10.6019/tol.sustainable-computing-intro-t.2026.00001.1
+# 10.1371/journal.pcbi.1013791
+#  10.1162/imag.a.36
+# 10.1101/cshperspect.a041473
+# 10.1038/s43588-023-00461-y
+
+#- id: pubmed:41401180
+#  member: loic-lannelongue
+#
+#- id: pubmed:40800866
+#  member: loic-lannelongue
