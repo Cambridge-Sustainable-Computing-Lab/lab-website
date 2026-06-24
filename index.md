@@ -42,6 +42,6 @@ We are a team of enthusiastic scientists passionate about making computing activ
 
 👉 08/05/2026 - Christina Bremer receives prize by the Swiss Physical Society for her “Highly Commended Poster” at [SC4RC 2026](https://indico.cern.ch/event/1526482/timetable/?view=standard) (collaborators: Jan van der Scheer and Loïc Lannelongue) on “How effective are carbon reporting tools in encouraging sustainable behaviours?”
 
-Explore what else the lab has been up to in our [News and Highlights](https://https://cam-sustainablecomputing.org/news_and_highlights/) page.
+Explore what else the lab has been up to in our [News and Highlights](news_and_highlights) page.
 
 
