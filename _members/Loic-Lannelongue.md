@@ -20,10 +20,11 @@ Loïc is particularly interested in understanding and mitigating the environment
 ### Current roles
 
 __2025 - ...  &nbsp;&nbsp;&nbsp;&nbsp; Assistant Research Professor, Dept of Public Health & Primary Care, University of Cambridge__ \\
-2025 - ...  &nbsp;&nbsp;&nbsp;&nbsp; Bye-Fellow & Director of Studies in Computer Science (Part II), Jesus College, Cambridge \\
-2025 - ...  &nbsp;&nbsp;&nbsp;&nbsp; NetDRIVE Champion for Transformational Change \\
-2024 - ...  &nbsp;&nbsp;&nbsp;&nbsp; Visiting Scientist, EMBL-EBI (European Bioinformatic Institute) \\
-2023 - ...  &nbsp;&nbsp;&nbsp;&nbsp; Fellow, Software Sustainability Institute 
+2025 - ...  &nbsp;&nbsp;&nbsp;&nbsp; Bye-Fellow & Director of Studies in Computer Science (Part II), Jesus College, Cambridge [{% include icon.html icon="fa-solid fa-link" %}](https://www.jesus.cam.ac.uk/people/loic-lannelongue) \\
+2025 - ...  &nbsp;&nbsp;&nbsp;&nbsp; NetDRIVE Champion for Transformational Change [{% include icon.html icon="fa-solid fa-link" %}](https://uknetdrive.org) \\
+2023 - ...  &nbsp;&nbsp;&nbsp;&nbsp; Fellow, Software Sustainability Institute [{% include icon.html icon="fa-solid fa-link" %}](https://www.software.ac.ukhttps://www.software.ac.uk) \\
+2026 - ... &nbsp;&nbsp;&nbsp;&nbsp; Affiliate, Minderoo Centre for Technology and Democracy, University of Cambridge [{% include icon.html icon="fa-solid fa-link" %}](https://www.mctd.ac.uk/team-members/dr-loic-lannelongue/) \\
+2024 - ...  &nbsp;&nbsp;&nbsp;&nbsp; Visiting Scientist, EMBL-EBI (European Bioinformatic Institute) [{% include icon.html icon="fa-solid fa-link" %}](https://www.ebi.ac.uk)
 
 {: .leftalign}
 
@@ -64,7 +65,7 @@ He is also a Director of Studies in Computer Science and a Bye Fellow at Jesus C
 
 He first studied in Paris (France) at Lycée Saint-Louis and ENSAE Paris where he earned a BSc and a French Diplôme d’Ingénieur (MSc) majoring in mathematics and statistics, with minors in theoretical physics and economics. He then earned an MSc in statistics and machine learning from the University of Oxford. He joined the department (in the Cardiovascular Epidemiology Unit) in 2018 for a PhD in Health Data Science supervised by Prof. Michael Inouye and supported by the MRC-DTP. His PhD, completed in 2022, looked at machine learning tools used to predict protein-protein interactions and the carbon footprint of computational research. From 2022 to December 2024, he continued in Cambridge as a Research Associate to pursue his work on Environmentally Sustainable Computational Science. He started his own research group in the same department at the start of 2025.
 
-He is also interested in radiogenomics, i.e. combining medical imaging and genetic information with machine learning to better understand and treat cardiovascular diseases. This work is part of the [Cambridge Baker Systems Genomics Initiative](https://www.inouyelab.org/home) led by Prof. Michael Inouye.
+[//]: # (He is also interested in radiogenomics, i.e. combining medical imaging and genetic information with machine learning to better understand and treat cardiovascular diseases. This work is part of the [Cambridge Baker Systems Genomics Initiative]&#40;https://www.inouyelab.org/home&#41; led by Prof. Michael Inouye.)
 
 ## All papers on Loïc's ORCID:
 
