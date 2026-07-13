@@ -594,6 +594,466 @@
   member: christina-bremer
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1145/3805689.3812295
+  title: Sustainable AI research? Researchers' perceptions of the environmental impact
+    of AI and emissions-feedback tools
+  authors:
+  - Theresa Willem
+  - Marie Piraud
+  publisher: Proceedings of the 2026 ACM Conference on Fairness, Accountability, and
+    Transparency
+  date: '2026-06-25'
+  link: https://doi.org/hb99bg
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S00146-025-02817-6
+  title: 'Consentful-by-design: a perspective on safeguarding data ownership from
+    generative AI leveraging lessons from the healthcare domain'
+  authors:
+  - Akis Linardos
+  - Theresa Willem
+  - Alena Buyx
+  - Showkot Hossain
+  - Taeho Jung
+  - Dimitrios Makris
+  - Spyridon Bakas
+  publisher: AI &amp; SOCIETY
+  date: '2026-01-07'
+  link: https://doi.org/hb99bh
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/JVC2.70287
+  title: "Should Dermatologists Recommend Direct\u2010to\u2010Consumer App\u2010Based\
+    \ Remote Diagnostics? An Ethical Analysis"
+  authors:
+  - Sonja Mathes
+  - Sebastian Seurig
+  - Theresa Willem
+  - Marta Dechant
+  - Stephan Traidl
+  - Mina Kang
+  - Pedro Marques Pinto
+  - Annette Binder
+  - Tilo Biedermann
+  - Ulf Darsow
+  publisher: JEADV Clinical Practice
+  date: '2026-02-01'
+  link: https://doi.org/hb99bj
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/13634593251377105
+  title: 'Suspended responsibility: The trouble with integrating researchers into
+    shared-responsibility models for machine learning-supported decisions'
+  authors:
+  - Theresa Willem
+  - Alena Buyx
+  - "Ruth M\xFCller"
+  publisher: 'Health: An Interdisciplinary Journal for the Social Study of Health,
+    Illness and Medicine'
+  date: '2025-10-15'
+  link: https://doi.org/hb99bk
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:123138536
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:123138536
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:001525952600110
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001525952600110
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41556-025-01619-8
+  title: Biases in machine-learning models of human single-cell data
+  authors:
+  - Theresa Willem
+  - Vladimir A. Shitov
+  - Malte D. Luecken
+  - Niki Kilbertus
+  - Stefan Bauer
+  - Marie Piraud
+  - Alena Buyx
+  - Fabian J. Theis
+  publisher: Nature Cell Biology
+  date: '2025-02-19'
+  link: https://doi.org/g9f95s
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S2214-109X(25)00124-X
+  title: 'Climate change and health: the next challenge of ethical AI'
+  authors:
+  - Amelia Fiske
+  - Isabella M Radhuber
+  - Theresa Willem
+  - Alena Buyx
+  - Leo Anthony Celi
+  - Stuart McLennan
+  publisher: The Lancet Global Health
+  date: '2025-07-01'
+  link: https://doi.org/hb99bm
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41698-025-01180-5
+  title: Collaborative framework on responsible AI in LLM-driven CDSS for precision
+    oncology leveraging real-world patient data
+  authors:
+  - Sonja Mathes
+  - Dyke Ferber
+  - Tobias Dreyer
+  - Kai J. Borm
+  - Luise Modersohn
+  - Theresa Willem
+  - Richard Dirven
+  - Julien Vibert
+  - Simon Kreutzfeldt
+  - Raquel Perez-Lopez
+  - Arsela Prelaj
+  - Fredrik Strand
+  - Richard D. Baird
+  - Martin Boeker
+  - Jakob Nikolas Kather
+  - Maximilian Tschochohei
+  - Jacqueline Lammert
+  publisher: npj Precision Oncology
+  date: '2025-12-04'
+  link: https://doi.org/hbgkhz
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2196/66379
+  title: 'Perceptions of Stigma Among Patients With Hepatitis B in Germany: Cross-Sectional
+    Survey'
+  authors:
+  - Bettina M Zimmermann
+  - Theresa Willem
+  - Michael Rost
+  - Nina Matthes
+  - Alena Buyx
+  publisher: JMIR Formative Research
+  date: '2025-06-13'
+  link: https://doi.org/hb99bn
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2196/59452
+  title: 'The Social Construction of Categorical Data: Mixed Methods Approach to Assessing
+    Data Features in Publicly Available Datasets'
+  authors:
+  - Theresa Willem
+  - Alessandro Wollek
+  - Theodor Cheslerean-Boghiu
+  - Martha Kenney
+  - Alena Buyx
+  publisher: JMIR Medical Informatics
+  date: '2025-01-28'
+  link: https://doi.org/hb99bp
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:001459038900001
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001459038900001
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2196/preprints.59452
+  title: 'The Social Construction of Categorical Data: Mixed Methods Approach to Assessing
+    Data Features in Publicly Available Datasets (Preprint)'
+  authors:
+  - Theresa Willem
+  - Alessandro Wollek
+  - Theodor Cheslerean-Boghiu
+  - Martha Kenney
+  - Alena Buyx
+  publisher: JMIR Publications Inc.
+  date: '2024-04-12'
+  link: https://doi.org/hb99bq
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2196/54034
+  title: 'Acceptance of Social Media Recruitment for Clinical Studies Among Patients
+    With Hepatitis B: Mixed Methods Study'
+  authors:
+  - Theresa Willem
+  - Bettina M Zimmermann
+  - Nina Matthes
+  - Michael Rost
+  - Alena Buyx
+  publisher: Journal of Medical Internet Research
+  date: '2024-08-26'
+  link: https://doi.org/hb99br
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S11948-024-00523-Y
+  title: 'Embedded Ethics in Practice: A Toolbox for Integrating the Analysis of Ethical
+    and Social Issues into Healthcare AI Research'
+  authors:
+  - Theresa Willem
+  - Marie-Christine Fritzsche
+  - Bettina M. Zimmermann
+  - Anna Sierawska
+  - Svenja Breuer
+  - Maximilian Braun
+  - Anja K. Ruess
+  - Marieke Bak
+  - "Franziska B. Sch\xF6nweitz"
+  - Lukas J. Meier
+  - Amelia Fiske
+  - Daniel Tigard
+  - "Ruth M\xFCller"
+  - Stuart McLennan
+  - Alena Buyx
+  publisher: Science and Engineering Ethics
+  date: '2024-12-24'
+  link: https://doi.org/hb99bs
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/MP.16790
+  title: "Out\u2010of\u2010distribution detection with in\u2010distribution voting\
+    \ using the medical example of chest x\u2010ray classification"
+  authors:
+  - Alessandro Wollek
+  - Theresa Willem
+  - Michael Ingrisch
+  - Bastian Sabel
+  - Tobias Lasser
+  publisher: Medical Physics
+  date: '2023-10-13'
+  link: https://doi.org/hb99bt
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2196/52448
+  title: 'Social Media Recruitment as a Potential Trigger for Vulnerability: Multistakeholder
+    Interview Study'
+  authors:
+  - Nina Matthes
+  - Theresa Willem
+  - Alena Buyx
+  - Bettina M Zimmermann
+  publisher: JMIR Human Factors
+  date: '2024-12-30'
+  link: https://doi.org/hb99bv
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2196/preprints.54034
+  title: 'Acceptance of Social Media Recruitment for Clinical Studies Among Patients
+    With Hepatitis B: Mixed Methods Study (Preprint)'
+  authors:
+  - Theresa Willem
+  - Bettina M Zimmermann
+  - Nina Matthes
+  - Michael Rost
+  - Alena Buyx
+  publisher: JMIR Publications Inc.
+  date: '2023-10-27'
+  link: https://doi.org/hb99bw
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:43037036
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:43037036
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1148/RYAI.220187
+  title: Attention-based Saliency Maps Improve Interpretability of Pneumothorax Classification
+  authors:
+  - Alessandro Wollek
+  - Robert Graf
+  - "Sa\u0161a \u010Ce\u010Datka"
+  - Nicola Fink
+  - Theresa Willem
+  - Bastian O. Sabel
+  - Tobias Lasser
+  publisher: 'Radiology: Artificial Intelligence'
+  date: '2023-03-01'
+  link: https://doi.org/hbd744
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2196/44587
+  title: 'Practical Benefits, Challenges, and Recommendations on Social Media Recruitment:
+    Multi-Stakeholder Interview Study'
+  authors:
+  - Nina Goldman
+  - Theresa Willem
+  - Alena Buyx
+  - Bettina M Zimmermann
+  publisher: Journal of Medical Internet Research
+  date: '2023-05-22'
+  link: https://doi.org/hb99bx
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/20539517231156127
+  title: 'Social media advertising for clinical studies: Ethical and data protection
+    implications of online targeting'
+  authors:
+  - "Rainer M\xFChlhoff"
+  - Theresa Willem
+  publisher: Big Data &amp; Society
+  date: '2023-01-01'
+  link: https://doi.org/hbh7vp
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:66252288
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:66252288
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2196/preprints.44587
+  title: 'Practical Benefits, Challenges, and Recommendations on Social Media Recruitment:
+    Multi-Stakeholder Interview Study (Preprint)'
+  authors:
+  - Nina Goldman
+  - Theresa Willem
+  - Alena Buyx
+  - Bettina M Zimmermann
+  publisher: JMIR Publications Inc.
+  date: '2022-11-24'
+  link: https://doi.org/hb99bz
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PPRN:11872966
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PPRN:11872966
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2196/31231
+  title: 'Ethical Issues in Social Media Recruitment for Clinical Studies: Ethical
+    Analysis and Framework'
+  authors:
+  - Bettina M Zimmermann
+  - Theresa Willem
+  - Carl Justus Bredthauer
+  - Alena Buyx
+  publisher: Journal of Medical Internet Research
+  date: '2022-05-03'
+  link: https://doi.org/hb99b2
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2196/40848
+  title: 'Correction: Ethical Issues in Social Media Recruitment for Clinical Studies:
+    Ethical Analysis and Framework'
+  authors:
+  - Bettina M Zimmermann
+  - Theresa Willem
+  - Carl Justus Bredthauer
+  - Alena Buyx
+  publisher: Journal of Medical Internet Research
+  date: '2022-09-07'
+  link: https://doi.org/hb99b3
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/JDV.18192
+  title: "Risks and benefits of dermatological machine learning health care applications\u2014\
+    an overview and ethical analysis"
+  authors:
+  - T. Willem
+  - S. Krammer
+  - "A.\u2010S. B\xF6hm"
+  - L.E. French
+  - D. Hartmann
+  - T. Lasser
+  - A. Buyx
+  publisher: Journal of the European Academy of Dermatology and Venereology
+  date: '2022-05-17'
+  link: https://doi.org/hb99b4
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2196/preprints.31231
+  title: 'Ethical Issues in Social Media Recruitment for Clinical Studies: Ethical
+    Analysis and Framework (Preprint)'
+  authors:
+  - Bettina M Zimmermann
+  - Theresa Willem
+  - Carl Justus Bredthauer
+  - Alena Buyx
+  publisher: JMIR Publications Inc.
+  date: '2021-06-14'
+  link: https://doi.org/hb99b5
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:A1993BY70H00022
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:A1993BY70H00022
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acs.jpcb.5c07501
   title: Evidence for Photoinduced Polaron Generation in a High Persistence Length
     Low Bandgap Conjugated Polymer in Solution
