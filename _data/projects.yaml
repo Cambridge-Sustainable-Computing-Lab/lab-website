@@ -12,7 +12,8 @@
   subtitle: The Environmentally Sustainable Computing User Trial of the Green Algorithms Initiative
   group: current
   image: images/projects/carbon-icons.jpg
-  description: We are running an international multi-centre study to compare the effectiveness of different types of feedback from carbon tracking tools for reducing the environmental impact of computational research. This trial will involve different user groups, leveraging a new open source dashboard for high-performance computing (HPC) that we have built. To get involved, register interest [here](https://zcmp.eu/nvfL).
+  link: /projects/e-scout/
+  description: We are running an international multi-centre study to compare the effectiveness of different types of feedback from carbon tracking tools for reducing the environmental impact of computational research. This trial will involve different user groups, leveraging a new open source dashboard for high-performance computing (HPC) that we have built. To get involved, [register interest here](https://zcmp.eu/nvfL).
   tags:
     - research
 
