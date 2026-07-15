@@ -21,6 +21,7 @@ Our projects are a combination of open-source tools, sustainability research pro
 
 {% include list.html component="card" data="projects" filter="group == 'current'" %}
 
+
     {% comment %}
     
     {% include section.html %}
