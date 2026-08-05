@@ -1,5 +1,15 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/eurheartj/ehag641
+  title: pendingpublications
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/hcdrdh
+  orcid: 0000-0002-9135-1345
+  member: loic-lannelongue
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1146/annurev-biodatasci-092724-015338
   title: The Case for Greener Biomedical Data Science and How to Get There
   authors:
@@ -592,6 +602,25 @@
   link: https://doi.org/hb8gdd
   orcid: 0000-0002-8222-9786
   member: christina-bremer
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/15265161.2026.2690963
+  title: Does Swarm Learning Solve Federation Opacity? The Need for Governance Beyond
+    Decentralization
+  authors:
+  - Marieke Bak
+  - Stefanie Warnat-Herresthal
+  - Theresa Willem
+  - Bettina Zimmermann
+  - Jonas Schulte-Schrepping
+  - Lucas Secchim Ribeiro
+  - Joachim Schultze
+  - Stuart McLennan
+  publisher: The American Journal of Bioethics
+  date: '2026-08-03'
+  link: https://doi.org/hcdrdj
+  orcid: 0000-0001-7643-8816
+  member: theresa-willem
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/3805689.3812295
