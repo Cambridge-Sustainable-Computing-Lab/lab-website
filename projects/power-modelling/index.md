@@ -16,7 +16,16 @@ One important source of data is from experiments run on an in-house <b>computati
 We run a combination of synthetic benchmarks (A.K.A. stress tests) and realistic scientific workloads on the test bench while monitoring the power draw of indivdual compute components and the system as a whole.
 Results from these experiments are compared with data sourced from high-performance computing (HPC) clusters and publically-available databases to ensure the accuracy and widespread applicability of the power models we develop.
 
-[//]: # ToDo: potentially add image of test bench?
+<style>
+  .no-shadow-figure .figure-image img {
+    box-shadow: none !important;
+    border: none;
+    border-radius: 0;
+  }
+</style>
+<div class="no-shadow-figure">
+{% include figure.html image="images/projects/test-bench-desk-setup-greybg.jpg" caption="Computational test bench (centre) for power measurement of scientific workloads" width="75%" %}
+</div>
 
 ## Get involved in this work
 
