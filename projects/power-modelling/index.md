@@ -20,10 +20,4 @@ Results from these experiments are compared with data sourced from high-performa
 
 [//]: # ToDo: callout to collaborators
 
-[//]: # ToDo: requirements / inputs (how you should prepare your workload before sending)
-
-[//]: # ToDo: protocol (what we do with your workload. The measurement process)
-
-[//]: # ToDo: outputs for you
-
-[//]: # ToDo: outputs for us
+[//]: # ToDo: Link to protocol (Including: requirements / inputs / how you should prepare your workload before sending, 2) what we do with your workload / The measurement process, and 3) outputs for you / outputs for us )
