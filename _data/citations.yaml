@@ -592,6 +592,23 @@
   member: christina-bremer
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.2139/ssrn.4459526
+  title: 'Assessing Energy and Climate Effects of Digitalization: Methodological Challenges
+    and Key Recommendations'
+  authors:
+  - Christina Bremer
+  - George Kamiya
+  - Pernilla Bergmark
+  - Vlad C. Coroama
+  - Eric Masanet
+  - Reid Lifset
+  publisher: Elsevier BV
+  date: '2023-01-01'
+  link: https://doi.org/hcgbt3
+  orcid: 0000-0002-8222-9786
+  member: christina-bremer
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/978-3-030-45712-9_15
   title: Not (B)interested? Using Persuasive Technology to Promote Sustainable Household
     Recycling Behavior
