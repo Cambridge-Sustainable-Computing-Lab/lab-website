@@ -1,6 +1,6 @@
 ---
 title: AI and Health
-description:
+description: Assessing effects of AI's environmental impacts on human health
 ---
 
 # {% include icon.html icon="fa-solid fa-heart-circle-bolt" %}AI and Health

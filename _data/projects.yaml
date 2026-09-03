@@ -1,19 +1,19 @@
-- title: Green Algorithms
+- title: Green Algorithms Initiative
   subtitle: Tools for carbon footprint estimation
   group: current
   image: images/projects/green-algorithms.png
   link: https://www.green-algorithms.org
-  description: The Green Algorithms project aims to bridge the gap between sustainable computing and computational scientists by building tools and frameworks for carbon footprint estimation and reduction.
+  description: This project aims to bridge the gap between sustainable computing and computational scientists by building tools and frameworks for carbon footprint estimation and reduction.
   tags:
     - tools
     - research
 
-- title: E-SCOUT
-  subtitle: The Environmentally Sustainable Computing User Trial of the Green Algorithms Initiative
+- title: AI and Health
+  subtitle: Assessing the effects of AI's environmental impacts on human health
   group: current
-  image: images/projects/carbon-icons.jpg
-  link: /projects/e-scout/
-  description: We are running an international multi-centre study to compare the effectiveness of different types of feedback from carbon tracking tools for reducing the environmental impact of computational research. This trial will involve different user groups, leveraging a new open source dashboard for high-performance computing (HPC) that we have built. To get involved, [register interest here](https://zcmp.eu/nvfL).
+  image: images/projects/ai-and-health.png
+  link: /projects/ai-and-health/
+  description: In this study, we collect and analyse empirical evidence of how AI adversely impacts human and planetary health using a variety of methods.
   tags:
     - research
 
@@ -22,7 +22,16 @@
   group: current
   image: images/projects/seedling-board.jpg
   link: /projects/power-modelling/
-  description: We use a computational test bench to run scientific workloads and benchmarks while monitoring the power usage of different components and the full system. These experiments provide the empirical data required to improve the accuracy and validity of the foundational models underlying the various Green Algorithm tools.
+  description: We are using a computational test bench to run scientific workloads and benchmarks while monitoring the power usage of different components and the full system. These experiments provide the empirical data required to improve the accuracy and validity of the foundational models underlying the various Green Algorithm tools.
+  tags:
+    - research
+
+- title: E-SCOUT
+  subtitle: The Environmentally Sustainable Computing User Trial of the Green Algorithms Initiative
+  group: current
+  image: images/projects/carbon-icons.jpg
+  link: /projects/e-scout/
+  description: We are running an international multi-centre study to compare the effectiveness of different types of feedback from carbon tracking tools for reducing the environmental impact of computational research. This trial will involve different user groups, leveraging a new open source dashboard for high-performance computing (HPC) that we have built.
   tags:
     - research
 
@@ -31,7 +40,7 @@
   group: current
   image: images/projects/green-disc.jpeg
   link: https://www.software.ac.uk/GreenDiSC
-  description: Green DiSC is the first free and open-access sustainability certification scheme for computational researchers. It provides a roadmap to individuals and organisations alike to understand and reduce the environmental impacts of their computational work.
+  description: The first free and open-access sustainability certification scheme for computational researchers, Green DiSC provides a roadmap to individuals and organisations to understand and reduce the environmental impacts of their computational work.
   tags:
     - certification
 

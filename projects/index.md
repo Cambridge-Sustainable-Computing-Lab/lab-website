@@ -9,7 +9,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Our projects are a combination of open-source tools, sustainability research projects, and policy work, all aiming to enable and promote sustainable computing.
+Our projects are a combination of open-source tools, sustainability research projects, and policy work, all aiming to enable and promote environmentally sustainable computing.
 
     {% comment %}
     
