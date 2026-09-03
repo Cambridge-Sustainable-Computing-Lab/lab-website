@@ -1,26 +1,37 @@
-- title: Green Algorithms
+- title: Green Algorithms Initiative
   subtitle: Tools for carbon footprint estimation
   group: current
   image: images/projects/green-algorithms.png
   link: https://www.green-algorithms.org
-  description: The Green Algorithms project aims to bridge the gap between sustainable computing and computational scientists by building tools and frameworks for carbon footprint estimation and reduction.
+  description: This project aims to bridge the gap between sustainable computing and computational scientists by building tools and frameworks for carbon footprint estimation and reduction.
   tags:
     - tools
+    - research
+
+- title: AI and Health
+  subtitle: Assessing the effects of AI's environmental impacts on human health
+  group: current
+  image: images/projects/ai-and-health.png
+  link: /projects/ai-and-health/
+  description: In this study, we collect and analyse empirical evidence of how AI adversely impacts human and planetary health using a variety of methods.
+  tags:
+    - research
+
+- title: Power Modelling
+  subtitle: Understanding the power usage of scientific computing
+  group: current
+  image: images/projects/seedling-board.jpg
+  link: /projects/power-modelling/
+  description: We are using a computational test bench to run scientific workloads and benchmarks while monitoring the power usage of different components and the full system. These experiments provide the empirical data required to improve the accuracy and validity of the foundational models underlying the various Green Algorithm tools.
+  tags:
     - research
 
 - title: E-SCOUT
   subtitle: The Environmentally Sustainable Computing User Trial of the Green Algorithms Initiative
   group: current
   image: images/projects/carbon-icons.jpg
-  description: We are running an international multi-centre study to compare the effectiveness of different types of feedback from carbon tracking tools for reducing the environmental impact of computational research. This trial will involve different user groups, leveraging a new open source dashboard for high-performance computing (HPC) that we have built. To get involved, register interest [here](https://zcmp.eu/nvfL).
-  tags:
-    - research
-
-- title: Power Modelling
-  subtitle: Assessing the power usage of scientific computing
-  group: current
-  image: images/projects/seedling-board.jpg
-  description: We use a computational test bench to run scientific workloads and benchmarks while monitoring the power usage of different components and the full system. These experiments provide the empirical data required to improve the accuracy and validity of the foundational models underlying the various Green Algorithm tools.
+  link: /projects/e-scout/
+  description: We are running an international multi-centre study to compare the effectiveness of different types of feedback from carbon tracking tools for reducing the environmental impact of computational research. This trial will involve different user groups, leveraging a new open source dashboard for high-performance computing (HPC) that we have built.
   tags:
     - research
 
@@ -29,16 +40,16 @@
   group: current
   image: images/projects/green-disc.jpeg
   link: https://www.software.ac.uk/GreenDiSC
-  description: Green DiSC is the first free and open-access sustainability certification scheme for computational researchers. It provides a roadmap to individuals and organisations alike to understand and reduce the environmental impacts of their computational work.
+  description: The first free and open-access sustainability certification scheme for computational researchers, Green DiSC provides a roadmap to individuals and organisations to understand and reduce the environmental impacts of their computational work.
   tags:
     - certification
 
 - title: ESCS Community
-  subtitle: Connecting scientists around sustainable computing
+  subtitle: Connecting scientists around environmentally sustainable computational science
   group: current
   image: images/projects/escs-forum.png
-  link: https://www.escs-community.org
-  description: The ESCS Community (which stands for Environmentally Sustainable Computational Science) provides a space for computational scientists in all fields to discuss and improve the environmental sustainability of their work.
+  link: /projects/escs-community/
+  description: The ESCS Community provides a space for computational scientists in all fields to discuss and improve the environmental sustainability of their work.
   tags:
     - community
 
