@@ -16,7 +16,7 @@
   - Gabrielle Samuel
   - "Lo\xEFc Lannelongue"
   publisher: Annual Review of Biomedical Data Science
-  date: '2026-04-28'
+  date: '2026-08-10'
   link: https://doi.org/hb7cm7
   orcid: 0000-0002-9135-1345
   member: loic-lannelongue
@@ -47,11 +47,12 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.6019/TOL.sustainable-computing-intro-t.2026.00001.1
-  title: Sustainable computing in science - An introduction to the environmental impacts
-    of computational research
-  authors: []
-  publisher: ''
-  date: ''
+  title: Sustainable computing in science
+  authors:
+  - "Lo\xEFc Lannelongue"
+  - Flaminia Zane
+  publisher: EMBL-EBI
+  date: '2026-01-29'
   link: https://doi.org/hbncmd
   orcid: 0000-0002-9135-1345
   member: loic-lannelongue
@@ -62,9 +63,9 @@
   authors:
   - Ireen J. Kal
   - Lidwien P. Smabers
-  - Joanna Berg
+  - Joanna von Berg
   - Giulia Perticari
-  - Mette Meent
+  - Mette van de Meent
   - Denise Fokkelman
   - Joep Sprangers
   - "Lo\xEFc Lannelongue"
@@ -335,7 +336,7 @@
   - Gerry Reilly
   - Michael Inouye
   publisher: Nature Computational Science
-  date: '2023-06-01'
+  date: '2023-06-26'
   link: https://doi.org/mkpz
   orcid: 0000-0002-9135-1345
   member: loic-lannelongue
