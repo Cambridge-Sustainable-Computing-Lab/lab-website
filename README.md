@@ -1,5 +1,4 @@
-
-# Llannelongue's Website
+# Cambridge Sustainable Computing Lab
 
 Visit **[cam-sustainablecomputing.org](http://cam-sustainablecomputing.org)** 🚀
 
