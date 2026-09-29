@@ -9,17 +9,17 @@ nav:
 
 👉 06/08/2026 - Theresa Willem co-published a comment in the American Journal of Bioethics: [https://www.tandfonline.com/doi/full/10.1080/15265161.2026.2690963#d1e307](https://www.tandfonline.com/doi/full/10.1080/15265161.2026.2690963#d1e307)
 
-👉 30/07/2026 - Christina Bremer’s Lightning Talk submission for LOCO 2026 was accepted | Title: “Does measuring carbon change behaviour? Designing a multi-centre trial in research organisations” (collaborators: Jan van der Scheer, Loïc Lannelongue)
+👉 30/07/2026 - Christina Bremer presents a lightning talk at LOCO 2026 titled “Does measuring carbon change behaviour? Designing a multi-centre trial in research organisations” (collaborators: Jan van der Scheer, Loïc Lannelongue)
 
-👉 30/07/2026 - Navirah Kamal’s Lightning Talk submission for LOCO 2026 was accepted | Title: “A unified user-facing carbon and energy monitoring dashboard for Digital Research Infrastructures” (collaborators: Loïc Lannelongue, Andy Turner)
+👉 30/07/2026 - Navirah Kamal presents a lightning talk at LOCO 2026 titled “A unified user-facing carbon and energy monitoring dashboard for Digital Research Infrastructures” (collaborators: Loïc Lannelongue, Andy Turner)
 
-👉 24/07/2026 - Jack Cocker presents a talk at the Step-up event: Developing a Sustainable Research Computing Environment in UK Universities | Title: “Modelling the Power Consumption of Scientific Computing” (collaborators: Loïc Lannelongue)
+👉 24/07/2026 - Jack Coker presents a talk at the Step-up event: Developing a Sustainable Research Computing Environment in UK Universities titled “Modelling the Power Consumption of Scientific Computing” (collaborators: Loïc Lannelongue)
 
-👉 26/06/2026 - Christina Bremer presents poster at the University of Cambridge Climate & Nature Research Showcase | Title: “How effective are carbon reporting tools in encouraging sustainable behaviours?” (collaborators: Jan van der Scheer, Loïc Lannelongue)
+👉 26/06/2026 - Christina Bremer presents a poster at the University of Cambridge Climate & Nature Research Showcase titled “How effective are carbon reporting tools in encouraging sustainable behaviours?” (collaborators: Jan van der Scheer, Loïc Lannelongue)
 
-👉 26/06/2026 - Jack Cocker presents lightning talk at the University of Cambridge Climate & Nature Research Showcase | Title: “Modelling the Power Consumption of Scientific Computing” (collaborators: Loïc Lannelongue)
+👉 26/06/2026 - Jack Coker presents a lightning talk at the University of Cambridge Climate & Nature Research Showcase titled “Modelling the Power Consumption of Scientific Computing” (collaborators: Loïc Lannelongue)
 
-👉 15/06/2026 - Jack Cocker presents lightning talk at the Cambridge West Hub Research Cafe on Sustainability | Title: “Modelling the Power Consumption of Scientific Computing” (collaborators: Loïc Lannelongue)
+👉 15/06/2026 - Jack Coker presents a lightning talk at the Cambridge West Hub Research Cafe on Sustainability titled “Modelling the Power Consumption of Scientific Computing” (collaborators: Loïc Lannelongue)
 
 👉 17/04/2026 - Loïc Lannelongue and Gabby Samuel (King’s College London) co-authored a paper in the Annual Review of Biomedical Data Science on [‘The Case for Greener Biomedical Data Science and How to Get There’](https://www.annualreviews.org/content/journals/10.1146/annurev-biodatasci-092724-015338)
 
