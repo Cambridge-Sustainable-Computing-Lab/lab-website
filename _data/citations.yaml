@@ -13,10 +13,14 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/eurheartj/ehag641
-  title: pendingpublications
-  authors: []
-  publisher: ''
-  date: ''
+  title: 'Transformer-based models for cardiovascular disease risk prediction: what
+    is the potential?'
+  authors:
+  - Lisa Pennells
+  - "Lo\xEFc Lannelongue"
+  - Stephen Kaptoge
+  publisher: European Heart Journal
+  date: '2026-08-21'
   link: https://doi.org/hcdrdh
   orcid: 0000-0002-9135-1345
   member: loic-lannelongue
