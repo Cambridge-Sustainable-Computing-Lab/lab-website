@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.6019/TOL.impacts-sci-computing-w.2026.00001.1
+  title: The environmental impacts of scientific computing
+  authors:
+  - Anica Araneta
+  - "Lo\xEFc Lannelongue"
+  publisher: EMBL-EBI
+  date: '2026-10-12'
+  link: https://doi.org/hcntth
+  orcid: 0000-0002-9135-1345
+  member: loic-lannelongue
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/eurheartj/ehag641
   title: pendingpublications
   authors: []
