@@ -109,7 +109,7 @@ A good (independent) guide about relocating to Cambridge is [available on MoverD
 
 Cambridge is located around 55 miles north of London and has a population of ~180,000 people. Within Cambridge, most traffic is done by bike: the city is very flat and has the highest level of cycle use in the UK ([apparently](https://web.archive.org/web/20090605201526/http://www.statistics.gov.uk/CCI/SearchRes.asp?term=KS15&btnSubmit=Search)).
 
-Transports: there are direct trains to London King's Cross (50min) and Stansted Airport is also nearby (30 miles and quick direct trains). __A new station, Cambridge South, is also expected to open ~100m from our office sometime in 2025!__
+Transports: there are direct trains to London King's Cross (50min) and Stansted Airport is also nearby (30 miles and quick direct trains). __A new station, Cambridge South, also opened in summer 2026!__
 
 {%
   include button.html
